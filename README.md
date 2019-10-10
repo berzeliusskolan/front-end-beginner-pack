@@ -1,6 +1,6 @@
-# Frontend Beginner pack 
+# Front-end Beginner pack 
 
-## Extensions included in this pack "frontend-beginner-pack"
+## Extensions included in this pack "front-end-beginner-pack"
 -  [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 -  [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 -  [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)

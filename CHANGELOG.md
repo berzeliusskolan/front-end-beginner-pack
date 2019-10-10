@@ -1,6 +1,6 @@
 # Change Log
 
-All notable changes to the "frontend-beginner" extension pack will be documented in this file.
+All notable changes to the "front-end-beginner-pack" extension pack will be documented in this file.
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 

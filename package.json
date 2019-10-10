@@ -1,7 +1,7 @@
 {
   "publisher": "yams",
-  "name": "yams",
-  "displayName": "frontend-beginner-pack",
+  "name": "front-end-beginner-pack",
+  "displayName": "front-end-beginner-pack",
   "description": "Detta är ett extensionpack till webb kursen",
   "version": "0.0.1-alpha",
   "engines": {
@@ -10,6 +10,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamada007/front-end-beginner-pack.git"
+  },
   "extensionPack": [
     "zhuangtongfa.Material-theme",
     "ritwickdey.LiveServer",

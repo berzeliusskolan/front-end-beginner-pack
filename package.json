@@ -1,0 +1,21 @@
+{
+  "publisher": "yams",
+  "name": "yams",
+  "displayName": "frontend-beginner-pack",
+  "description": "Detta är ett extensionpack till webb kursen",
+  "version": "0.0.1-alpha",
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "zhuangtongfa.Material-theme",
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "pranaygp.vscode-css-peek",
+    "gruntfuggly.todo-tree"
+  ]
+}

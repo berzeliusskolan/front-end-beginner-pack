@@ -1,0 +1,9 @@
+{
+  // Indent-rainbow config
+  "indentRainbow.colors": [
+    "rgba( 255, 159, 28, 0.15 )",
+    "rgba( 46, 196, 182, 0.15 )",
+    "rgba(231, 29, 54, 0.15 )",
+    "rgba( 18, 158, 6 , 0.15 )"
+  ],
+}

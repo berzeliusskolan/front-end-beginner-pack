@@ -7,3 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.4]
+- Added indent-rainbow 
+- Added custom color palette to indent-rainbow extension

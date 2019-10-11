@@ -1,18 +1,18 @@
 {
-  "publisher": "yams",
+  "publisher": "berzeliusskolan",
   "name": "front-end-beginner-pack",
-  "displayName": "front-end-beginner-pack",
-  "description": "Detta är ett extensionpack till webb kursen",
+  "displayName": "Front end Beginner Pack",
+  "description": "Extensions recommended for beginner front end developers",
   "version": "0.0.4",
   "engines": {
-    "vscode": "^1.38.1"
+    "vscode": "^1.30.0"
   },
   "categories": [
     "Extension Packs"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yamada007/front-end-beginner-pack.git"
+    "url": "https://github.com/berzeliusskolan/front-end-beginner-pack"
   },
   "extensionPack": [
     "zhuangtongfa.Material-theme",

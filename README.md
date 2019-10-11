@@ -10,4 +10,4 @@
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-\*\* Enjoy!
+# Enjoy!

@@ -9,5 +9,6 @@
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
 - [Indent rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple)
 
 # Enjoy!

@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [0.0.5]
+  - Removed indent-rainbow due to incorrect config
+  - Added ftp-simple
+
 ## [0.0.4]
 - Added indent-rainbow 
 - Added custom color palette to indent-rainbow extension

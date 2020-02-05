@@ -8,9 +8,12 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [0.0.5]
+## [0.0.6]
   - Removed indent-rainbow due to incorrect config
   - Added ftp-simple
+
+## [0.0.5]
+  - Small fixes
 
 ## [0.0.4]
 - Added indent-rainbow 

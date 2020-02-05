@@ -3,7 +3,7 @@
   "name": "front-end-beginner-pack",
   "displayName": "Front end Beginner Pack",
   "description": "Extensions recommended for beginner front end developers",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.30.0"
   },

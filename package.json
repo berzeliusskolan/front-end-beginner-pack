@@ -20,7 +20,6 @@
     "esbenp.prettier-vscode",
     "formulahendry.auto-rename-tag",
     "pranaygp.vscode-css-peek",
-    "gruntfuggly.todo-tree",
-    "humy2833.ftp-simple"
+    "gruntfuggly.todo-tree"
   ]
 }

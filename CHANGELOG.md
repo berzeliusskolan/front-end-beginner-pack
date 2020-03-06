@@ -4,6 +4,9 @@ All notable changes to the "front-end-beginner-pack" extension pack will be docu
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
+## [0.0.8]
+  - Remove ftp-simple
+  - Update documentation
 
 ## [0.0.7]
   - Update documentation

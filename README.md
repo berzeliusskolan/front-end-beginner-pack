@@ -8,6 +8,5 @@
 - [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 - [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 - [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree)
-- [ftp-simple](https://marketplace.visualstudio.com/items?itemName=humy2833.ftp-simple)
 
 # Enjoy!

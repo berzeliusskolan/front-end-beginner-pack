@@ -4,7 +4,7 @@
   "displayName": "Front end Beginner Pack",
   "description": "Extensions recommended for beginner front end developers",
   "icon": "images/berzan-icon.png",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.30.0"
   },

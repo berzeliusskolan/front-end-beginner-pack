@@ -1,8 +1,8 @@
 {
   "publisher": "berzeliusskolan",
   "name": "front-end-beginner-pack",
-  "displayName": "Front end Beginner Pack",
-  "description": "Extensions recommended for beginner front end developers",
+  "displayName": "Frontend Beginner Pack",
+  "description": "Extensions recommended for beginner frontend developers",
   "icon": "images/berzan-icon.png",
   "version": "0.0.9",
   "engines": {

@@ -1,6 +1,6 @@
 {
   "publisher": "berzeliusskolan",
-  "name": "front-end-beginner-pack",
+  "name": "frontend-beginner-pack",
   "displayName": "Frontend Beginner Pack",
   "description": "Extensions recommended for beginner frontend developers",
   "icon": "images/berzan-icon.png",
@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/berzeliusskolan/front-end-beginner-pack"
+    "url": "https://github.com/berzeliusskolan/frontend-beginner-pack"
   },
   "extensionPack": [
     "zhuangtongfa.Material-theme",
